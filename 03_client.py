@@ -2,7 +2,7 @@ from openai import OpenAI
 
 # Initialize OpenAI client with API key
 client = OpenAI(
-    api_key="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"
+    api_key="""Enter your OpenAI API Key"""
 )
 command = '''
 Enter some samples from your chap from the terminal after running the 01_main_bot.py file.
